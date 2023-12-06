@@ -1,6 +1,6 @@
 Name:		texlive-bithesis
-Version:	65314
-Release:	2
+Version:	68634
+Release:	1
 Summary:	Templates for the Beijing Institute of Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bithesis
