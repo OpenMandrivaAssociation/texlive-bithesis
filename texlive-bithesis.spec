@@ -1,5 +1,5 @@
 Name:		texlive-bithesis
-Version:	70136
+Version:	71392
 Release:	1
 Summary:	Templates for the Beijing Institute of Technology
 Group:		Publishing
