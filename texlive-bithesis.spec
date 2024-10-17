@@ -3,7 +3,7 @@ Version:	71392
 Release:	1
 Summary:	Templates for the Beijing Institute of Technology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bithesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bithesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bithesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bithesis.doc.r%{version}.tar.xz
